@@ -1,0 +1,54 @@
+.blog-pics {
+	height: auto;
+	width: 250px;
+}
+body{
+	background-color: #cad3e0;
+	font-family: Helvetica, sans-serif;
+	width: 75%;
+	margin: auto;
+}
+
+#fauna-title,
+#flora-title {
+	color: black;
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	background-color: black;
+	border: 1px solid white;
+	color: white;
+	font-size: 24px;
+	font-weight: 300;
+	margin-bottom: 10px;
+	padding: 2% 5%;
+	box-shadow: 4px 4px #888888;
+	
+}
+
+h2{
+	font-weight:300;
+}
+
+section{
+	background-color:white;
+	border: 1px solid lightgrey;
+	line-height: 150%;
+	margin-bottom:10px;
+	padding: 2% 5%;
+}
+#special-message{
+	font-style: italic;
+}
+#actuallyabutton{
+	background-color: white;
+	color: black;
+	font-size: 15px;
+}
+.buttonload {
+  background-color: white; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  font-size: 0px; /* Set a font-size */
+}
