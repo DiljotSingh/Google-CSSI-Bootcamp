@@ -1,3 +1,3 @@
 Google's Computer Science Summer Institute (CSSI) is a three-week introduction to computer science (CS) for graduating high school seniors with a passion for technology — especially students from historically underrepresented groups in the field. This program is partnered with universities across the nation to help promote interest in the tech field and help students new to programming become more confident in their abilities by giving them hands on practice.
 
-These projects were developed during the CSSI program and showcase the diverse skills and languages learned - such as Python, HTML and CSS, Javascript, and the Google App Engine.
+These projects were developed during the CSSI program and showcase the diverse skills and languages learned, such as Python, Javascript, HTML/CSS, and the Google App Engine.
